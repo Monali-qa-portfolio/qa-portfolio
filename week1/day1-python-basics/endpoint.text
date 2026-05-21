@@ -1,0 +1,7 @@
+/api/v1/patients/register
+/api/v1/appointments/schedule
+/api/v1/forms/submit
+/api/v1/payments/process
+/api/v1/insurance/verify
+/api/v1/notifications/send
+/api/v1/reports/generate
